@@ -1,0 +1,154 @@
+<html lang="pt-BR"><head>
+<meta charset="iso-8859-1">
+<link rel="shortcut icon" href="images/favicon.png">
+<title>Planos</title>
+<meta name="description" content="">
+<meta property="og:description" content="">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Planos">
+<meta property="og:url" content="https://grupont.newertech.com.br/index.php?tipo=artigo&amp;id=14">
+<meta property="og:site_name" content="Planos">
+<meta name="theme-color" content="#fff">
+<meta name="msapplication-navbutton-color" content="#fff">
+<meta name="apple-mobile-web-app-status-bar-style" content="#fff">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link href="css/bootstrap.css" rel="stylesheet">
+<link href="css/hotsite.css" rel="stylesheet">
+<link href="css/font-awesome.css" rel="stylesheet">
+<link href="template/memphis9/css/style.css" rel="stylesheet">
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="js/jquery.js"></script>
+<script type="text/javascript" src="js/mask.js"></script>
+<script type="text/javascript" src="js/bootstrap.js"></script>
+<script type="text/javascript" src="js/hs_scripts.js"></script>
+<script type="text/javascript" src="template/memphis9/js/scripts.js"></script>
+</head>
+<body data-aos-easing="ease" data-aos-duration="400" data-aos-delay="0" style="overflow: visible;">
+<div class="cabecalho">
+<div id="cabecalho1">
+<div class="row">
+<div class="col-lg-12 col-sm-12">
+<div class="minhaconta"><ul>
+	<li><a href="index.php?tipo=minhaconta">Minha conta</a></li>
+	<li class="divider"></li>
+	<li>
+Olá Cliente <a href="index.php?tipo=entrar" class="transparencia">entrar</a></li></ul></div>
+</div>
+</div>
+<div class="row">
+<div class="col-lg-4 col-sm-4">
+<a href="https://grupont.newertech.com.br/"><img src="arquivos/grupo_nt_site.png" height="100" width="250"></a>
+</div>
+<div class="col-lg-8 col-sm-8">
+<div id="menu-primary">
+	<div class="navbar navbar-inverse">
+			<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".ixc_collapse1">
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			</button>
+			<div class="navbar-collapse collapse ixc_collapse1"><ul class="nav navbar-nav"><li class=""><a href="index.php?tipo=artigo&amp;id=11">Início</a></li><li class=""><a href="index.php?tipo=artigo&amp;id=12">Empresa</a></li><li class=""><a href="index.php?tipo=artigo&amp;id=13">Cobertura</a></li><li class=" active"><a href="index.php?tipo=artigo&amp;id=14">Planos</a></li><li class=""><a href="index.php?tipo=artigo&amp;id=15">Fale Conosco</a></li><li class=" class=" dropdown"="" "=""><a data-toggle="dropdown" class="dropdown-toggle" href="index.php?tipo=artigo&amp;id=18">F.A.Q<b class="caret"></b></a><ul class="dropdown-menu"><li><a href="index.php?tipo=artigo&amp;id=16">Dúvidas Frequentes</a></li><li><a href="https://181.191.236.34/arquivos_publicos/contrato_padrao_de_prestaaao_de_serviao_de_internet.pdf">Contrato Prestação de Serviços</a></li></ul></li></ul>
+			</div>
+		</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="centro">
+	<div class="row" style="margin-left: 0px; margin-right:0px;">
+				<div class="col-lg-12">
+						<div id="breadcrumb"><div class="row">
+<div class="col-lg-12 col-sm-12">
+<div class="row"><div class="col-lg-12 col-sm-12"><div class="carousel slide" data-ride="carousel" id="slideCarousel"><div class="carousel-inner"><div class="item active"><img alt="Grupo NT" src="/template/memphis9/images/2banner1.jpg" style="width:100%; min-height: 155px;"></div><div class="item"><img alt="Turbine sua conexão" src="/template/memphis9/images/img02.jpg" style="width:100%; min-height: 155px;"></div></div><div><a class="left carousel-control" style="font-size: 70px; width: 25%; color: #f58634b0; top: 19%" data-slide="prev" href="#slideCarousel" onclick="plusDivs(-1)">❮</a><a class="right carousel-control" style="font-size: 70px; width: 25%; color: #f58634b0; top: 19%" data-slide="next" href="#slideCarousel" onclick="plusDivs(-1)">❯</a><div class="flex"><div class="bloco bloco-assinante animated bounceInDown"><div class="imagem hidden-xs"><img class="img-responsive" src="/template/memphis9/images/central.jpg" style="width: 160px;"></div><div class="conteudo"><h2>Central do<br>Assinante</h2><a class="btn" href="index.php?tipo=minhaconta" id="0">Minha conta</a></div></div></div></div></div>
+</div>
+</div>
+</div>
+						<div id="centro2"><div class="artigo container"><div class="titulo">Planos</div><div class="conteudo"><div class="side-itens fixed-bottom hidden-xs"><a class="velocidade" href="http://ixcsoft.speedtestcustom.com" target="_blank"><img class="icone" src="template/memphis/images/velocidadeicon.png"><span class="titulo-card"> TESTE DE VELOCIDADE </span></a><a class="contato" data-izimodal-open="#modal-contato" data-izimodal-transitionin="fadeInDown" href="/index.php?tipo=artigo&amp;id=15"><img class="icone" src="template/memphis/images/contatoicon.png"><span class="titulo-card"> ENTRE EM CONTATO </span></a><a class="cobertura" href="https://grupont.newertech.com.br/index.php?tipo=artigo&amp;id=13" target="_blank"><img class="icone" src="template/memphis/images/coberturaicon.png"><span class="titulo-card"> NOSSA ÁREA DE COBERTURA</span></a><a class="cobertura" href="https://www.google.com/maps/d/embed?mid=19ldwna0ktdg7s8Qzc6GIXzy2TrpbBRH8" target="_blank"><span class="titulo"> </span></a></div><p>&nbsp;</p><section id="pricing-table" class="pricing-table section center bg" style="background-color: #092b3d;"><div class="container"><div class="row"><div class="col-md-12 col-sm-12 col-xs-12" style="background-color: #f58634; text-align: center;"><div class="section-title claro"><h1>Plano Residencial</h1><p>Escolha já o seu!</p></div></div></div><div class="row"><div class="col-md-4 col-sm-12 col-xs-12"><div class="single-table"><div class="bg-icon"><i class="fa fa-wifi"></i></div><div class="table-head"><div class="price" style="background: #f58634; color: #0a2b3d"><p class="amount">10 MB</p></div><h2 class="title">R$ 69,90/mês</h2></div><ul class="table-list"><li><i class="fa fa-angle-right"></i>Download 10MB</li><li><i class="fa fa-angle-right"></i>Uploads 3 megas</li><li><i class="fa fa-angle-right"></i>Tecnologia Fibra</li><li><i class="fa fa-angle-right"></i>Wifi Grátis</li></ul><div class="table-bottom"><a class="btn primary" href="https://api.whatsapp.com/send?phone=5511957838860&amp;text=OlÃ¡! tenho interesse no plano de 10 megas."><i class="fa fa-shopping-cart"></i>Assinar</a></div></div></div><div class="col-md-4 col-sm-12 col-xs-12"><div class="single-table active"><div class="bg-icon"><i class="fa fa-wifi"></i></div><div class="table-head"><div class="price" style="background: #ff6e03; color: #0a2b3d"><p class="amount">100 MB</p></div><h2 class="title">R$ 159,90/mês</h2></div><ul class="table-list"><li><i class="fa fa-angle-right"></i>Download 100MB</li><li><i class="fa fa-angle-right"></i>Uploads 30 megas</li><li><i class="fa fa-angle-right"></i>Tecnologia Fibra</li><li><i class="fa fa-angle-right"></i>Wifi Grátis</li></ul><div class="table-bottom"><a class="btn primary" href="https://api.whatsapp.com/send?phone=5511957838860&amp;text=OlÃ¡! tenho interesse no plano de 100 megas."><i class="fa fa-shopping-cart"></i>Assinar</a></div></div></div><div class="col-md-4 col-sm-12 col-xs-12"><div class="single-table"><div class="bg-icon"><i class="fa fa-wifi"></i></div><div class="table-head"><div class="price" style="background: #f58634; color: #0a2b3d"><p class="amount">20 MB</p></div><h2 class="title">R$ 89,90/mês</h2></div><ul class="table-list"><li><i class="fa fa-angle-right"></i>Download 20MB</li><li><i class="fa fa-angle-right"></i>Uploads 6 megas</li><li><i class="fa fa-angle-right"></i>Tecnologia Fibra</li><li><i class="fa fa-angle-right"></i>Wifi Grátis</li></ul><div class="table-bottom"><a class="btn primary" href="https://api.whatsapp.com/send?phone=5511957838860&amp;text=OlÃ¡! tenho interesse no plano de 20 megas."><i class="fa fa-shopping-cart"></i>Assinar</a></div></div></div><div class="col-md-4 col-sm-12 col-xs-12" style="margin-left:180px;margin-right:auto;"><div class="single-table"><div class="bg-icon"><i class="fa fa-wifi"></i></div><div class="table-head"><div class="price" style="background: #f58634; color: #0a2b3d"><p class="amount">50 MB</p></div><h2 class="title">R$ 119,90/mês</h2></div><ul class="table-list"><li><i class="fa fa-angle-right"></i>Download 50MB</li><li><i class="fa fa-angle-right"></i>Uploads 15 megas</li><li><i class="fa fa-angle-right"></i>Tecnologia Fibra</li><li><i class="fa fa-angle-right"></i>Wifi Grátis</li></ul><div class="table-bottom"><a class="btn primary" href="https://api.whatsapp.com/send?phone=5511957838860&amp;text=OlÃ¡! tenho interesse no plano de 50 megas."><i class="fa fa-shopping-cart"></i>Assinar</a></div></div></div><div class="col-md-4 col-sm-12 col-xs-12" style="margin-left:60px;margin-right:auto;"><div class="single-table"><div class="bg-icon"><i class="fa fa-wifi"></i></div><div class="table-head"><div class="price" style="background: #f58634; color: #0a2b3d"><p class="amount">70 MB</p></div><h2 class="title">R$ 139,90/mês</h2></div><ul class="table-list"><li><i class="fa fa-angle-right"></i>Download 70MB</li><li><i class="fa fa-angle-right"></i>Uploads 21 megas</li><li><i class="fa fa-angle-right"></i>Tecnologia Fibra</li><li><i class="fa fa-angle-right"></i>Wifi Grátis</li></ul><div class="table-bottom"><a class="btn primary" href="https://api.whatsapp.com/send?phone=5511957838860&amp;text=OlÃ¡! tenho interesse no plano de 70 megas."><i class="fa fa-shopping-cart"></i>Assinar</a></div></div></div></div></div></section><p>&nbsp;</p><section id="pricing-table" class="pricing-table section center bg" style="background-color: #092b3d;"><div class="container"><div class="row"><div class="col-md-12 col-sm-12 col-xs-12" style="background-color: #0b141b; text-align: center;"><div class="section-title claro"><h1>Planos Corporativos</h1><p>Escolha já o seu!</p></div></div></div><div class="row"><div class="col-md-4 col-sm-12 col-xs-12" style="margin-left:180px;margin-right:auto; margin-bottom: 220px;"><div class="single-table active"><div class="bg-icon"><i class="fa fa-wifi"></i></div><div class="table-head"><div class="price" style="background: #ff6e03; color: #0a2b3d"><p class="amount">Plano P.M.E</p></div><h2 class="title">A partir de: R$ 99,90/mês</h2></div><ul class="table-list"><li><i class="fa fa-angle-right"></i>Internet ilimitada.</li><li><i class="fa fa-angle-right"></i>Atendimento em até 24 horas.</li><li><i class="fa fa-angle-right"></i>Tecnologia Fibra</li><li><i class="fa fa-angle-right"></i>Contrato fidelidade de 12 meses.</li><li><i class="fa fa-angle-right"></i>Fibra optica de ponta a ponta.</li><li><i class="fa fa-angle-right"></i>Consulte valor da taxa de instalação vigente em seu bairro</li></ul><div class="table-bottom"><a class="btn primary" href="https://api.whatsapp.com/send?phone=5511957838860&amp;text=OlÃ¡! tenho interesse no plano P.M.E"><i class="fa fa-shopping-cart"></i>Mais Informações</a></div></div></div><div class="col-md-4 col-sm-12 col-xs-12" style="margin-left:50px;margin-right:auto;"><div class="single-table active"><div class="bg-icon"><i class="fa fa-wifi"></i></div><div class="table-head"><div class="price" style="background: #ff6e03; color: #0a2b3d"><p class="amount">Plano Dedicado</p></div><h2 class="title">A partir de: R$ 799,90/mês</h2></div><ul class="table-list"><li><i class="fa fa-angle-right"></i>Internet ilimitada.</li><li><i class="fa fa-angle-right"></i>Atendimento em até 6 horas.</li><li><i class="fa fa-angle-right"></i>Fibra optica de ponta a ponta.</li><li><i class="fa fa-angle-right"></i>Contrato fidelidade de 12 meses.</li><li><i class="fa fa-angle-right"></i>Fibra optica de ponta a ponta.</li><li><i class="fa fa-angle-right"></i>SLA de 99,8%.</li><li><i class="fa fa-angle-right"></i>Disponível com IP válido.</li><li><i class="fa fa-angle-right"></i>Consulte valor da taxa de instalação vigente em seu bairro</li></ul><div class="table-bottom"><a class="btn primary" href="https://api.whatsapp.com/send?phone=5511957838860&amp;text=OlÃ¡! tenho interesse no plano Dedicado."><i class="fa fa-shopping-cart"></i>Mais Informações</a></div></div></div></div></div></section><p>&nbsp;</p><div style="text-align: center;"><a href="https://api.whatsapp.com/send?phone=5511957838860"><input style="border-radius: 78px; border-right-width: 2px; padding-top: 10px; padding-bottom: 10px;" type="button" value="QUERO SABER MAIS!"></a><p>&nbsp;</p><p>&nbsp;</p><section class="nossa-missao parallax"><div class="parallax-group"><div class="parallax-layer parallax-back" style="background-image: url('template/memphis9/images/fibra4.jpg')">&nbsp;</div><div class="parallax-layer parallax-base"><div class="container slider-missao aos-init slick-initialized slick-slider" data-aos="flip-left" data-aos-duration="2000" data-aos-easing="ease-out-cubic"><div class="slick-list draggable"><div class="slick-track" style="opacity: 1; width: 8190px; transform: translate3d(-1170px, 0px, 0px);"><div class="item bloco col-md-9 col-centered slick-slide slick-cloned" data-slick-index="-1" aria-hidden="true" style="width: 1170px;" tabindex="-1"><span>Plano P.M.E</span><p>Solução econômica e versátil para quem precisa de muitas conexões simultâneas. É mais segurança e performance na conexão.</p></div><div class="item bloco col-md-9 col-centered slick-slide slick-current slick-active" data-slick-index="0" aria-hidden="false" style="width: 1170px;" tabindex="0"><span>Plano Residêncial</span><p>Transmissão de dados em altíssima velocidade. Navegue, veja filmes, séries e jogue com alta performance.</p></div><div class="item bloco col-md-9 col-centered slick-slide" data-slick-index="1" aria-hidden="true" style="width: 1170px;" tabindex="-1"><span>Plano Dedicado</span><p>Velocidade constante, estabilidade de conexão, segurança dos dados da sua empresa e eficiência nas atividades diárias da empresa.</p></div><div class="item bloco col-md-9 col-centered slick-slide" data-slick-index="2" aria-hidden="true" style="width: 1170px;" tabindex="-1"><span>Plano P.M.E</span><p>Solução econômica e versátil para quem precisa de muitas conexões simultâneas. É mais segurança e performance na conexão.</p></div><div class="item bloco col-md-9 col-centered slick-slide slick-cloned" data-slick-index="3" aria-hidden="true" style="width: 1170px;" tabindex="-1"><span>Plano Residêncial</span><p>Transmissão de dados em altíssima velocidade. Navegue, veja filmes, séries e jogue com alta performance.</p></div><div class="item bloco col-md-9 col-centered slick-slide slick-cloned" data-slick-index="4" aria-hidden="true" style="width: 1170px;" tabindex="-1"><span>Plano Dedicado</span><p>Velocidade constante, estabilidade de conexão, segurança dos dados da sua empresa e eficiência nas atividades diárias da empresa.</p></div><div class="item bloco col-md-9 col-centered slick-slide slick-cloned" data-slick-index="5" aria-hidden="true" style="width: 1170px;" tabindex="-1"><span>Plano P.M.E</span><p>Solução econômica e versátil para quem precisa de muitas conexões simultâneas. É mais segurança e performance na conexão.</p></div></div></div></div></div></div></section></div></div></div></div>
+					</div>
+			</div>
+</div>
+<div class="centro2"></div>
+<div class="rodape">
+<div id="rodape1"><div class="row">
+<div class="col-lg-12 col-sm-12">
+<div class="clearfix rodape-1"><div class="conteudo" style="width: 75%;"><div class="rodape-menu col-lg-3 col-md-3 col-sm-12 col-xs-12 text-left hidden-xs"><h1>Menu</h1><p><a class="hvr-wobble-horizontal voltar-inicio" href="#cabecalho">Início</a></p><p><a class="hvr-wobble-horizontal" href="./index.php?tipo=artigo&amp;id=12">Empresa</a></p><p><a class="hvr-wobble-horizontal" href="./index.php?tipo=artigo&amp;id=13">Cobertura</a></p><p><a class="hvr-wobble-horizontal" href="./index.php?tipo=ecommerce&amp;page=produtos">Planos</a></p><p><a class="hvr-wobble-horizontal" href="./index.php?tipo=artigo&amp;id=15">Fale Conosco</a></p><p><a class="hvr-wobble-horizontal" href="./index.php?tipo=artigo&amp;id=16">Dúvidas Frequentes</a></p></div><div class="rodape-contato col-lg-3 col-md-3 col-sm-12 col-xs-12 text-left"><h1>Contato</h1><h1><a href="tel:+55 (11) 4785-3700">(11) 4785-3700</a></h1><div class="single-widget"><p><a href="mailto:suporte@newertech.com.br">suporte@newertech.com.br</a></p><a href="https://www.instagram.com/grupontonline/"><i class="social fa fa-instagram"></i></a></div></div><div class="facebook-rodape col-lg-3 col-md-3 col-sm-12 col-xs-12 text-left hidden-xs"><h1>Siga-nos no Facebook</h1><iframe allowtransparency="true" frameborder="0" height="215" scrolling="no" src="https://www.facebook.com/plugins/page.php?href=https://www.facebook.com/GrupoNTOnline" style="border:none;overflow:hidden" width="100%"></iframe></div></div></div><div class="clearfix"><div class="copyright-rodape col-lg-12 col-md-12 col-sm-12 col-xs-12 text-center"><p>AV ELIAS YAZBEK, 1245&nbsp;- CENTRO, Embu das Artes - SP,&nbsp;06803-002</p><p>©2018 - GRUPO NT - Todos os direitos reservados.</p><p><a href="https://www.ixcsoft.com.br" target="_blank">Desenvolvido por IXCSoft </a></p></div></div>
+</div>
+</div>
+</div>
+<div id="rodape2"><div class="row">
+<div class="col-lg-12 col-sm-12">
+
+</div>
+</div>
+</div>
+</div>
+<div id="imprimir_rel" style="position:fixed; z-index: 9999; width: 780px; top: 10px; left: 284.5px; display: none;"></div>
+<!--
+<a style="position: fixed;bottom: 0px;right: 0px;z-index: 1000;width:200px;height:104px;" href="javascript:void(window.open('http://www.ixcsoft.com.br/live/chat.php','','width=590,height=610,left=0,top=0,resizable=yes,menubar=no,location=no,status=yes,scrollbars=yes'))"><img src="http://www.ixcsoft.com.br/live/image.php?id=02&amp;type=inlay" width="200" height="104" border="0" alt="Chat"></a>
+<div id="livezilla_tracking" style="display:none"></div>
+<script type="text/javascript">var script = document.createElement("script");script.type="text/javascript";var src = "http://www.ixcsoft.com.br/live/server.php?request=track&output=jcrpt&nse="+Math.random();setTimeout("script.src=src;document.getElementById('livezilla_tracking').appendChild(script)",1);</script>
+-->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-44740521-1', 'ixcsoft.com.br');
+  ga('send', 'pageview');
+
+</script>
+<script type="text/javascript">
+ixc_stats={
+	referencia:function(){
+		var i = "";
+		try {
+			i = window.top.document.referrer
+		}
+		catch (Q) {
+			if (window.parent) {
+				try {
+					i = window.parent.document.referrer
+				} catch (P) {
+					i = ""
+				}
+			}
+		}
+		if (i === "") {
+			i = document.referrer
+		}
+		return escape(i)
+	},
+	titulo: function(){
+		return document.title;
+	},
+	url: function(){
+		var st_urlDoc = document.location.href;
+		var st_pos = st_urlDoc.indexOf("//");
+		if (st_pos > 0) {
+			st_urlDoc = st_urlDoc.substr(st_pos);
+		}
+		return escape(st_urlDoc);
+	},
+	envia:function(){
+		var src1 = 'stats.php';
+		src1 += '?ref='+ixc_stats.referencia();
+		src1 += '&res='+screen.width+'x'+screen.height;
+		src1 += '&col='+screen.colorDepth;
+		src1 += '&titulo='+ixc_stats.titulo();
+		src1 +='&url='+ ixc_stats.url()
+		var bn = new Image(1, 1);
+		bn.src = src1;
+	},
+	update:function(){
+		var src1 = 'stats.php?update=S&r='+Math.random();
+		var bn = new Image(1, 1);
+		bn.src = src1;
+	}
+}
+ixc_stats.envia();
+var r = window.setInterval('ixc_stats.update()', 30000);
+</script>
+
+
+</div></div></body></html>
